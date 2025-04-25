@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome ou Apelido]</h1>
+<h1 align="center">Olá! 👋 Eu sou Jotape</h1>
 
 <p align="center">🧠 Desenvolvedor curioso em formação | 🎯 Apaixonado por aprender e transformar ideias em código</p>
 
@@ -29,9 +29,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
 </div>
 
----
 
-<p align="center">Vamos construir algo incrível juntos? 🚀</p>
+<p align="center">Bora codar🚀💻</p>
